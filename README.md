@@ -1,10 +1,9 @@
 <p align="center">
-	<img src="./src/logo-full.png" width={400} alt="Ishtika" />
+	<img src="https://raw.githubusercontent.com/vazra/ishtika-react/master/public/logo-full.png" width={400} alt="Ishtika" />
 </p>
 
-> A collection standalone componets to be used in React apps.
+> a collection standalone componets to be used in React apps.
 
-#### To learn how this project was made from scratch, [read the blog post](https://medium.com/@vazra/how-to-write-your-own-reusable-react-component-library-a57dc7c9a210)!
 
 ## Get Started
 
